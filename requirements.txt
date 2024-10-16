@@ -1,0 +1,13 @@
+python-dotenv==1.0.0
+opencv-python==4.8.0.74
+numpy==1.23.5
+gradio==3.36.2
+matplotlib==3.7.2
+plotly==5.17.0
+torch==2.0.1
+pytorch-lightning==2.0.6
+Pillow==10.0.0
+torchvision==0.15.2
+torchmetrics==1.0.0
+ultralytics==8.0.124
+albumentations==1.4.18
