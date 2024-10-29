@@ -42,11 +42,6 @@ After cropping the primary images, we utilized **Roboflow** to label and draw bo
 - **Test:** 20%
 
 
-## Links
-
-- [**Google Drive Link For `Dataset`**](https://drive.google.com/drive/folders/1-YQTPSHah-aBXTYcO92mManBZ1bvMLRs?usp=sharing)
-- [**Google Drive Link For `weights`**](https://drive.google.com/drive/folders/18NVHJ_KA9mcS9ZJmWursoeHI9XXM27NS?usp=sharing)
-
 ## Requirements
 
 To run the files, the following packages are required:
